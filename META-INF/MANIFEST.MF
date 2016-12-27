@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: jafama
+Bundle-SymbolicName: jafama
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: jafama.jar,
+ dist/jafama.jar
+Export-Package: net.jafama
